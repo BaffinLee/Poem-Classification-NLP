@@ -4,7 +4,7 @@
 
 The task is to classify poems into one of four genres: Affection, Environment, Music, and Death using an NLP method. This involves understanding and processing the text of poems to identify patterns and features that distinguish each genre.
 
-I will use RNN models like LSTM and GRU to do this classification task.
+I will use RNN models like LSTM and BiLSTM to do this NLP classification task.
 
 ## Report
 
